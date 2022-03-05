@@ -22,9 +22,9 @@ body {
 }
 
 .wrapper {
-    background: #ff0;
+    background: #fff;
     width: 370px;
-    border-radius: 8px;
+    border-radius: 5px;
     padding: 25px 30px;
 }
 
@@ -101,7 +101,6 @@ form button {
 .wrapper {
     background: #fff;
     width: 90%;
-    background: #f00;
     border-radius: 8px;
     padding: 25px 30px;
 }
