@@ -96,7 +96,7 @@ form button {
     cursor: pointer;
 }
 
-@media (max-width: 500px){
+@media (max-width: 750px){
 
 .wrapper {
     background: #fff;
